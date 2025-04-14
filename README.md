@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Ari Hayhurst @arikhay
+- 👋 Hi, I’m Ari Wynder @arikwyn
 - 👀 I’m interested in computer science positions.
-- 🌱 I’m currently attending an online program through Promineo Tech to improve my CS skills.
-- 📫 You can reach me at ari.hayhurst.work@protonmail.com
-- 😄 Pronouns: (Xe/Xem/Xyr) · (They/Them/Their)
+- 📫 You can reach me at ari.wynder.work@protonmail.com
+- 😄 Pronouns: (Xe/Xem/Xyr) · (They/Them/Their) · (Zhe/Zhim/Zhir) · (It/Its)
 - ⚡ Fun fact: I am also a creative writing working on a long-term other-world fantasy adventure epic, among other novels and serials.
 
 <!---
