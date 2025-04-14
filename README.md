@@ -3,7 +3,7 @@
 - 🥼 Experience tutoring Java and Python. Experience coding in Java, Javascript, C++, Python, HTML & CSS, and MySQL.
 - 🅰️ Elementary experience speaking / reading Japanese and Spanish.
 
-- 📫 Work Email: ari.wynder.work@protonmail.com
+- 📫 Work Email: arikwynder.work@protonmail.com
 - 😄 Pronouns: (Xe/Xem/Xyr) · (They/Them/Their) · (Zhe/Zhim/Zhir) · (It/Its)
 - ⚡ Fun fact: Working on a long-term other-world fantasy adventure epic (been working on since February 2015), among other novels and serials.
 
