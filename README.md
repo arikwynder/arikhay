@@ -1,11 +1,11 @@
-- 👋 Hi, my name is Ari Kai Wynder @arikwynder
-- 👀 Interested in computer science positions.
-- 🥼 Experience tutoring Java and Python. Experience coding in Java, Javascript, C++, Python, HTML & CSS, and MySQL.
-- 🅰️ Elementary experience speaking / reading Japanese and Spanish.
+- Hi, my name is Ari Kai Wynder @arikwynder
+- Interested in computer science positions.
+- Experience tutoring Java and Python. Experience coding in Java, Javascript, C++, Python, HTML & CSS, and MySQL.
+- Elementary experience speaking / reading Japanese and Spanish.
 
-- 📫 Work Email: arikwynder.work@protonmail.com
-- 😄 Pronouns: (Xe/Xem/Xyr) · (They/Them/Their) · (Zhe/Zhim/Zhir) · (It/Its)
-- ⚡ Fun fact: Working on a long-term other-world fantasy adventure epic (been working on since February 2015), among other novels and serials.
+- Work Email: arikwynder.work@protonmail.com
+- Pronouns: (They/Them/Theirs) ● (Xe/Xem/Xyrs) ● (Zhe/Zhem/Zhirs) ● (Fae/Faer/Faers) ● (It/Its)
+- Fun fact: Working on a long-term other-world fantasy adventure epic (been working on since February 2015), among other novels and serials.
 
 🟢⚪⚫ ● ⚫⚪🟣
 
